@@ -1,1 +1,2 @@
 # Quackhack
+This project was made by 3 students at the University of Oregon for it's own first hackathon. It was the first video game hackathon in the US. My group's project was split into 3 parts where we could work on ours individually and set up a common theme with a currency to link the 3 together to give aesthetic features for the characters in each of our games such as hats or colors. My personal game was a racing game around this track where if you fell off of the track you would have to go an extra lap. This game was made with Unity and programmed in C#.
